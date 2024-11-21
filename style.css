@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    padding: 40px;
+}
+
+.section {
+    padding: 50px 0;
+    background: #386338;
+}
+
+.section .title {
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-size: 24px;
+    margin: 10px;
+    margin-top: 0;
+}
+
+p {
+    color: white;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+input[type="email"] {
+    padding: 5px 10px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: green;
+    font-weight: bold;
+    text-transform: capitalize;
+}
